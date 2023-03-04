@@ -1,3 +1,6 @@
 [submodule "timestamp-microservice"]
 	path = timestamp-microservice
 	url = https://github.com/kodiidok/timestamp-microservice.git
+[submodule "request-header-parser-microservice"]
+	path = request-header-parser-microservice
+	url = https://github.com/kodiidok/request-header-parser-microservice.git
