@@ -4,3 +4,6 @@
 [submodule "request-header-parser-microservice"]
 	path = request-header-parser-microservice
 	url = https://github.com/kodiidok/request-header-parser-microservice.git
+[submodule "url-shortner-microservice"]
+	path = url-shortner-microservice
+	url = https://github.com/kodiidok/url-shortner-microservice.git
