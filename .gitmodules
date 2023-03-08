@@ -7,3 +7,9 @@
 [submodule "url-shortner-microservice"]
 	path = url-shortner-microservice
 	url = https://github.com/kodiidok/url-shortner-microservice.git
+[submodule "exersice-tracker-microservice"]
+	path = exersice-tracker-microservice
+	url = https://github.com/kodiidok/exersice-tracker-microservice.git
+[submodule "filemetada-microservice"]
+	path = filemetada-microservice
+	url = https://github.com/kodiidok/filemetada-microservice.git
